@@ -31,9 +31,9 @@ Este es el segundo Challenge del programa ONE - Oracle Next Education, donde se 
 
 ---
 
-![Juego del Ahorcado(10)]()
+
 
 ---
 
-[**Link de la página** ✌]()
+
 ---
